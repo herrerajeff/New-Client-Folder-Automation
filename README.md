@@ -4,6 +4,7 @@ Folder Structure taken from: [Matt D. Smith's "BEST FOLDER STRUCTURE FOR DESIGN 
 
 ### What it does
 
-Easy. You input your client's name, and the type of project, and the following folder structure will be automatically created for you:
+Easy.
+You input your client's name, and the type of project, and the following folder structure will be automatically created for you:
 
 ![Folder Structure](/Screenshots/finder.png?raw=true)
