@@ -2,7 +2,7 @@
 
 Folder Structure taken from: [Matt D. Smith's "BEST FOLDER STRUCTURE FOR DESIGN PROJECTS" video](https://www.youtube.com/watch?v=uZ9om-iogQE)
 
-### What it does
+## What it does
 
 Easy.
 You input your client's name, and the type of project, and the following folder structure will be automatically created for you:
@@ -11,10 +11,16 @@ You input your client's name, and the type of project, and the following folder 
 
 ![Folder Structure](/Screenshots/finder.png?raw=true)
 
-### Running It
+## Getting Started
 
 There are two options:
 
-##### 1. Add the function to your Bash Scripts (My Preferred Method)
+### Add the function to your Bash Scripts (My Preferred Method)
 
-##### 2.
+Edit your .bashrc file:
+
+```
+$ sudo nano ~/.bashrc
+```
+
+### Download 'new-client.sh' file from this repo
