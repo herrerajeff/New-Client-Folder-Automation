@@ -20,6 +20,8 @@ You input your client's name, and the type of project, and the following folder 
 
 ⚠️  __To create a new client folder structure, open the file in Terminal.__  ⚠️
 
+---
+
 ### Option 2: Add the function to your Bash Scripts (My Preferred Method)
 
 1. Open Terminal & edit your .bashrc file:
