@@ -17,7 +17,7 @@ You input your client's name, and the type of project, and the following folder 
 
 1. Download the [new-client.sh](/new-client.sh?raw=true) file from this repo
 
-1. __To create a new client folder structure, open the file in Terminal.__
+__To create a new client folder structure, open the file in Terminal.__
 
 ### Option 2: Add the function to your Bash Scripts (My Preferred Method)
 
@@ -79,7 +79,7 @@ You input your client's name, and the type of project, and the following folder 
     . ~/.bashrc
     ```
 
-1. __To create a new client folder structure, just type the following into Terminal:__
+__To create a new client folder structure, just type the following into Terminal:__
     ```
     newclient
     ```
