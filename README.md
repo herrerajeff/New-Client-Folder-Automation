@@ -11,4 +11,10 @@ You input your client's name, and the type of project, and the following folder 
 
 ![Folder Structure](/Screenshots/finder.png?raw=true)
 
-### Running
+### Running It
+
+There are two options:
+
+##### 1. Add the function to your Bash Scripts (My Preferred Method)
+
+##### 2.
