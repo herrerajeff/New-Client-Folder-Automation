@@ -82,7 +82,7 @@ You input your client's name, and the type of project, and the following folder 
     . ~/.bashrc
     ```
 
-⚠️  __To create a new client folder structure, just type the following into Terminal:__  ⚠️
+⚠️  __To create a new client folder structure, just type the following into Terminal:__
     ```
     newclient
-    ```
+    ```  ⚠️
