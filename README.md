@@ -75,7 +75,7 @@ Reload after saving changes:
 . ~/.bashrc
 ```
 
-** To create a new client folder structure, just type the following into Terminal:**
+__To create a new client folder structure, just type the following into Terminal:__
 ```
 newclient
 ```
