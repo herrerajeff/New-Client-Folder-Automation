@@ -18,7 +18,7 @@ You input your client's name, and the type of project, and the following folder 
 
 1. Download the [new-client.sh](/new-client.sh?raw=true) file from this repo
 
-    (Make sure to change the path under comment block 1 to the path where you want your folder to be created by opening in your favorite text editor)
+    _(Make sure to change the path under comment block 1 to the path where you want your folder to be created by opening in your favorite text editor)_
 
 ⚠️  __To create a new client folder structure, open the file in Terminal.__  ⚠️
 
@@ -34,7 +34,7 @@ You input your client's name, and the type of project, and the following folder 
 
 1. Copy & paste the newclient function then press Control ⌃+O with Control ⌃+X to exit:
 
-    (Make sure to change the path under comment block 1 to the path where you want your folder to be created)
+    _(Make sure to change the path under comment block 1 to the path where you want your folder to be created)_
 
     ```
     newclient(){
