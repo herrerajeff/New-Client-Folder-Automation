@@ -15,7 +15,7 @@ You input your client's name, and the type of project, and the following folder 
 
 ### Option 1: Download 'new-client.sh' file from this repo
 
-1. Download the new-client.sh file from this repo
+1. Download the [new-client.sh](/new-client.sh?raw=true) file from this repo
 
 1. __To create a new client folder structure, open the file in Terminal.__
 
