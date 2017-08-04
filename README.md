@@ -13,9 +13,8 @@ You input your client's name, and the type of project, and the following folder 
 
 ## Getting Started
 
-There are two options:
-
 ### Option 1: Add the function to your Bash Scripts (My Preferred Method)
+---
 
 Open Terminal & edit your .bashrc file:
 
@@ -79,5 +78,9 @@ __To create a new client folder structure, just type the following into Terminal
 ```
 newclient
 ```
-
+---
 ### Option 2: Download 'new-client.sh' file from this repo
+---
+Download the new-client.sh file from this repo
+
+__To create a new client folder structure, open the file in Terminal.__
