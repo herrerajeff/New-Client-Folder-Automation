@@ -18,6 +18,8 @@ You input your client's name, and the type of project, and the following folder 
 
 1. Download the [new-client.sh](/new-client.sh?raw=true) file from this repo
 
+    (Make sure to change the path under comment block 1 to the path where you want your folder to be created by opening in your favorite text editor)
+
 ⚠️  __To create a new client folder structure, open the file in Terminal.__  ⚠️
 
 ---
@@ -31,6 +33,8 @@ You input your client's name, and the type of project, and the following folder 
     ```
 
 1. Copy & paste the newclient function then press Control ⌃+O with Control ⌃+X to exit:
+
+    (Make sure to change the path under comment block 1 to the path where you want your folder to be created)
 
     ```
     newclient(){
@@ -47,11 +51,11 @@ You input your client's name, and the type of project, and the following folder 
         printf "__________________________\nCreating Directory\n\n"
         sleep 0.5
 
-        ########################################
-        #                                                                           #
-        #       Edit this path to your own client folder        #
-        #                                                                           #
-        #######################################
+        #########################################
+        #                                                                               #
+        #       1. Edit this path to your own client folder        #
+        #                                                                               #
+        #########################################
 
         cd /Users/jeffreyherrera/Library/Mobile\ Documents/com\~apple\~CloudDocs/_Clients
 
@@ -60,11 +64,11 @@ You input your client's name, and the type of project, and the following folder 
             exit 1
         else
 
-            ####################################################################
-            #                                                                                                                                    #
-            #       This makes your folder structure...feel free to edit with your requirements         #
-            #                                                                                                                                   #
-            ###################################################################
+            #####################################################################
+            #                                                                                                                                       #
+            #       2. This makes your folder structure...feel free to edit with your requirements         #
+            #                                                                                                                                       #
+            #####################################################################
 
             sudo mkdir -p "$client_name"/Case\ Study "$client_name"/Contracts  "$client_name"/Projects/$project_type/Assets "$client_name"/Projects/$project_type/Assets/Brand\ Guidelines "$client_name"/Projects/$project_type/Assets/Images "$client_name"/Projects/$project_type/Assets/Fonts "$client_name"/Projects/$project_type/Design "$client_name"/Projects/$project_type/Design/Sketch "$client_name"/Projects/$project_type/Design/Illustrator "$client_name"/Projects/$project_type/Design/InDesign "$client_name"/Projects/$project_type/Review "$client_name"/Research
 
