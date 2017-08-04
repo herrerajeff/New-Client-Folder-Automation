@@ -13,16 +13,21 @@ You input your client's name, and the type of project, and the following folder 
 
 ## Getting Started
 
-### Option 1: Add the function to your Bash Scripts (My Preferred Method)
----
+### Option 1: Download 'new-client.sh' file from this repo
 
-Open Terminal & edit your .bashrc file:
+1. Download the new-client.sh file from this repo
+
+1. __To create a new client folder structure, open the file in Terminal.__
+
+### Option 2: Add the function to your Bash Scripts (My Preferred Method)
+
+1. Open Terminal & edit your .bashrc file:
 
 ```
 $ sudo nano ~/.bashrc
 ```
 
-Copy & paste the newclient function then press Control ⌃+O with Control ⌃+X to exit:
+1. Copy & paste the newclient function then press Control ⌃+O with Control ⌃+X to exit:
 
 ```
 newclient(){
@@ -68,19 +73,13 @@ newclient(){
 
 ```
 
-Reload after saving changes:
+1. Reload after saving changes:
 
 ```
 . ~/.bashrc
 ```
 
-__To create a new client folder structure, just type the following into Terminal:__
+1. __To create a new client folder structure, just type the following into Terminal:__
 ```
 newclient
 ```
----
-### Option 2: Download 'new-client.sh' file from this repo
----
-Download the new-client.sh file from this repo
-
-__To create a new client folder structure, open the file in Terminal.__
