@@ -7,4 +7,8 @@ Folder Structure taken from: [Matt D. Smith's "BEST FOLDER STRUCTURE FOR DESIGN 
 Easy.
 You input your client's name, and the type of project, and the following folder structure will be automatically created for you:
 
+![Terminal Window](/Screenshots/terminal.png?raw=true)
+
 ![Folder Structure](/Screenshots/finder.png?raw=true)
+
+### Running
